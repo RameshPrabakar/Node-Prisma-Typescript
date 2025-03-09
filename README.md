@@ -10,6 +10,7 @@ This repository contains an implementation of a CURD API's using NodeJS, Typescr
 1. Clone the repository
 2. Install dependencies by running `yarn install`
 3. Start the application by running `yarn start`
+3. Test the application by running `yarn test`
 
 ## Endpoints
 

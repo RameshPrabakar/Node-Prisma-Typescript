@@ -3,7 +3,7 @@ import router from "./routes/index";
 import { PrismaClient } from "@prisma/client";
 
 
-const app = express();
+export const app = express();
 const port = 8080;
 
 export const prisma = new PrismaClient();
